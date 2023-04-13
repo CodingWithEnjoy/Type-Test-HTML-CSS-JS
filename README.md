@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">دمو | Demo 😁<br><br>https://codingwithenjoy.github.io/Type-Test-HTML-CSS-JS/</h4>
+<h4 align="center">دمو | Demo 😁<br><br>https://codingwithenjoy.github.io/Type-Test-HTML-CSS-JS</h4>
 
 ###
 
